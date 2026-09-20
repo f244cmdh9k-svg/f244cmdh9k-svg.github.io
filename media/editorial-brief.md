@@ -49,7 +49,7 @@ These are proposed story angles, not existing Apple features or awards.
 
 ### Supporting media
 
-The accompanying media folder contains seven screenshots covering all six spaces, an actual-app preview, and an overview image. The screenshots identify the optional paid scenes. The preview shows native app footage using the available Simple controls mode; its soundtrack was reconstructed from the app's bundled audio and synchronized to the recorded actions. It is not a direct recording of device audio. Haptics are best evaluated on an iPhone.
+The accompanying media folder contains nine screenshots covering all six spaces, an actual-app preview, and an overview image. The screenshots identify the optional paid scenes. The preview shows native app footage using the available Simple controls mode; its soundtrack was reconstructed from the app's bundled audio and synchronized to the recorded actions. It is not a direct recording of device audio. Haptics are best evaluated on an iPhone.
 
 [Website](https://f244cmdh9k-svg.github.io/) · [Support](https://f244cmdh9k-svg.github.io/support.html) · [Privacy](https://f244cmdh9k-svg.github.io/privacy.html)
 
